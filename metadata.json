@@ -1,5 +1,6 @@
 {
   "owner": "actions",
   "name": "labeler",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "An action for automatically labelling pull requests"
 }

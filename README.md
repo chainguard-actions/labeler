@@ -1,5 +1,7 @@
 # actions/labeler
 
+An action for automatically labelling pull requests
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions/labeler](https://github.com/actions/labeler).
 
 ## Versions
