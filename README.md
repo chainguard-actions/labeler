@@ -1,6 +1,12 @@
 # actions/labeler
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions/labeler](https://github.com/actions/labeler).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v6.0.1 | [`v6.0.1`](https://github.com/chainguard-actions/labeler/tree/v6.0.1) | — |
 
 ## Privacy
 
