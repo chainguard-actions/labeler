@@ -1,4 +1,6 @@
 {
-  "upstream": "actions/labeler",
-  "version": "v6.0.1"
+  "owner": "actions",
+  "repo": "labeler",
+  "version": "",
+  "url": "https://github.com/actions/labeler"
 }

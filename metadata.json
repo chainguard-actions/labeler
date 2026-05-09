@@ -2,5 +2,6 @@
   "owner": "actions",
   "name": "labeler",
   "visibility": "internal",
-  "description": "An action for automatically labelling pull requests"
+  "description": "An action for automatically labelling pull requests",
+  "block_publish": false
 }
