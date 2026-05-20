@@ -1,7 +1,0 @@
-{
-  "owner": "actions",
-  "name": "labeler",
-  "visibility": "public",
-  "description": "An action for automatically labelling pull requests",
-  "block_publish": false
-}
