@@ -1,6 +1,6 @@
 # actions/labeler
 
-An action for automatically labelling pull requests
+Automatically label new pull requests based on the paths of files being changed
 
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions/labeler](https://github.com/actions/labeler).
 
